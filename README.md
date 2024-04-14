@@ -12,7 +12,7 @@ This project showcases a simple image slider built using HTML, CSS, and JavaScri
 3. Use the next and previous buttons to navigate through the slider.
 
 ## Demo
-You can view a live demo of the image slider .
+You can view a live demo of the image slider from (https://parasnegi783.github.io/Image_slider/).
 
 ## Contributing
 Feel free to contribute to this project by submitting pull requests or suggesting improvements.
